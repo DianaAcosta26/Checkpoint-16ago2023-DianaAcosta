@@ -1,0 +1,53 @@
+Comandos examen
+ 353  git clone https://github.com/DianaAcosta26/Checkpoint-16ago2023-DianaAcosta.git
+  354  ls
+  355  cd Checkpoint-16ago2023-DianaAcosta/
+  356  touch main.js index.html
+  357  git add .
+  358  git commit -m "commit 01 de DianaAcosta"
+  359  git status
+  360  push origin main
+  361  git push origin main
+  362  git log
+  363  git branch feature
+  364  git branch
+  365  git checkout feature
+  366  mkdir Hardware Software SeguridadInformatica
+  367  cd Harware | touch resumen.txt
+  368  cd Hardware | touch resumen.txt
+  369  cd Hardware
+  370  ls
+  371  cd ..
+  372  cd ..
+  373  cd Checkpoint-16ago2023-DianaAcosta/
+  374  ls
+  375  mv resumen ./Hardware
+  376  mv resumen /Hardware
+  377  rm resumen.txt
+  378  ls
+  379  cd hardware
+  380  touch resumen.txt
+  381  ls
+  382  cd ..
+  383  cd software
+  384  touch resumen.txt
+  385  ls
+  386  cd ..
+  387  cd SeguridadInformatica/
+  388  touch resumen.txt
+  389  ls
+  390  cd ..
+  391  ls -R
+  392  git add .
+  393  git commit -m "commit 02 DianaAcosta"
+  394  git push origin feature
+  395  git log
+  396  git checkout main
+  397  ls
+  398  mv main.js resumenHardware.txt
+  399  mv index.html resumenSoftware.txt
+  400  ls
+  401  cat resumenSoftware.txt
+  402  ls
+  403  touch comandos.txt
+  404  history
